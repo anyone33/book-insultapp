@@ -1,0 +1,17 @@
+**/.settings/
+**/target/
+**/war/
+**/logs/
+**/gwt-unitCache/
+**/.project
+**/.classpath
+**/.idea/
+**/src/main/resources/DESC-INF/activepivot-types.xsd
+**/src/main/resources/settings-types.xsd
+**/src/main/web-app/app/
+**/src/main/web-app/node_modules/
+**/src/main/web-app/src/html/bower_components/
+mimer-sentinel/src/main/webapp/
+**/mem.*.db
+**/*.lock.db
+**/*.h2.db
